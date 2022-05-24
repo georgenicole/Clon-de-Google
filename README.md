@@ -1,2 +1,2 @@
 # Clon-de-Google
-Esto es un Clon de Gogle
+Esto es un Clon de Google
